@@ -25,6 +25,16 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,git,github,mysql,vscode" />
 </p>
+
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenksc123&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenksc123&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
 ---
 
 ## 📫 Connect with Me

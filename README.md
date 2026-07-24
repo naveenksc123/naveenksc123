@@ -28,15 +28,12 @@
 
 
 ---
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenksc123&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=naveenksc123&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenksc123&layout=compact" />
-</p>
 
 
 ---

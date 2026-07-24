@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Naveen Kundarapu
 
-<!--
-**naveenksc123/naveenksc123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about Java, Data Structures & Algorithms, Full Stack Development, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Java
+- DSA
+- React
+- Spring Boot
+- AI & Machine Learning
+
+🎯 2026 Goals
+- Crack a top software internship
+- Solve 500+ DSA problems
+- Build 10 real-world projects
+- Contribute to Open Source
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+- Git
+- GitHub
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/naveen-ksc-9aab7b309
+- LeetCode: https://leetcode.com/u/naveenkundarapu07/
+- Email: naveenksc5@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+
+

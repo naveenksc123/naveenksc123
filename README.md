@@ -22,14 +22,9 @@
 
 ## 🛠️ Tech Stack
 
-- Java
-- HTML5
-- CSS3
-- JavaScript
-- SQL
-- Git
-- GitHub
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,git,github,mysql,vscode" />
+</p>
 ---
 
 ## 📫 Connect with Me
